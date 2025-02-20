@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Employee
+comment0.text=\r\n\ Class\ to\ represent\ a\ company's\ Employee\r\n
+comment1.params=n\ g\ s
+comment1.target=Employee(java.lang.String,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Employee\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=int\ getGrade()
+comment3.text=\r\n\ Return\ the\ grade\ of\ an\ employee\r\n
+comment4.params=
+comment4.target=int\ getSalary()
+comment4.text=\r\n\ Return\ the\ salary\ of\ an\ employee\r\n
+comment5.params=
+comment5.target=void\ employeeDetails()
+comment5.text=\r\n\ Print\ he\ details\ of\ an\ employee\r\n
+numComments=6

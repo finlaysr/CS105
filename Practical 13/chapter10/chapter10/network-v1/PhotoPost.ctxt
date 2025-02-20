@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=author\ filename\ caption
+comment0.target=PhotoPost(String,\ String,\ String)
+comment0.text=\nConstructor\ for\ objects\ of\ class\ PhotoPost.\n\n@param\ author\ \ \ \ The\ username\ of\ the\ author\ of\ this\ post.\n@param\ filename\ \ The\ filename\ of\ the\ image\ in\ this\ post.\n@param\ caption\ \ \ A\ caption\ for\ the\ image.\n\n
+comment1.target=void\ like()
+comment1.text=\nRecord\ one\ more\ 'Like'\ indication\ from\ a\ user.\n\n
+comment2.target=void\ unlike()
+comment2.text=\nRecord\ that\ a\ user\ has\ withdrawn\ his/her\ 'Like'\ vote.\n\n
+comment3.params=text
+comment3.target=void\ addComment(String)
+comment3.text=\nAdd\ a\ comment\ to\ this\ post.\n\n@param\ text\ \ The\ new\ comment\ to\ add.\n\n
+comment4.target=String\ getImageFile()
+comment4.text=\nReturn\ the\ file\ name\ of\ the\ image\ in\ this\ post.\n\n@return\ The\ post's\ image\ file\ name.\n\n
+comment5.target=String\ getCaption()
+comment5.text=\nReturn\ the\ caption\ of\ the\ image\ of\ this\ post.\n\n@return\ The\ image's\ caption.\n\n
+comment6.target=long\ getTimeStamp()
+comment6.text=\nReturn\ the\ time\ of\ creation\ of\ this\ post.\n\n@return\ The\ post's\ creation\ time,\ as\ a\ system\ time\ value.\n\n
+comment7.target=void\ display()
+comment7.text=\nDisplay\ the\ details\ of\ this\ post.\n\n(Currently\:\ Print\ to\ the\ text\ terminal.\ This\ is\ simulating\ display\ \nin\ a\ web\ browser\ for\ now.)\n\n
+comment8.params=time
+comment8.target=String\ timeString(long)
+comment8.text=\nCreate\ a\ string\ describing\ a\ time\ point\ in\ the\ past\ in\ terms\ \nrelative\ to\ current\ time,\ such\ as\ "30\ seconds\ ago"\ or\ "7\ minutes\ ago".\nCurrently,\ only\ seconds\ and\ minutes\ are\ used\ for\ the\ string.\n\n@param\ time\ \ The\ time\ value\ to\ convert\ (in\ system\ milliseconds)\n@return\ \ \ \ \ \ A\ relative\ time\ string\ for\ the\ given\ time\n\n
+numComments=9

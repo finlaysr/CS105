@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Swim
+comment1.params=
+comment1.target=Swim()
+comment2.params=
+comment2.target=int\ winner()
+comment3.params=lane\ time
+comment3.target=void\ recordResults(int,\ double)
+comment4.params=
+comment4.target=int\ size()
+comment5.params=n
+comment5.target=double\ check(int)
+numComments=6

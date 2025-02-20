@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Company
+comment0.text=\r\n\ Class\ to\ represent\ a\ Company.\r\n\ \r\n
+comment1.params=n
+comment1.target=Company(int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Company\r\n
+comment2.params=e
+comment2.target=void\ addEmployee(Employee)
+comment2.text=\r\n\ Add\ employees\ to\ company\r\n
+comment3.params=
+comment3.target=void\ printDetails()
+comment3.text=\r\n\ Print\ details\ of\ company's\ employees\r\n
+comment4.params=
+comment4.target=int\ salaryBill()
+comment4.text=\r\n\ Calculate\ company's\ total\ salary\ bill\r\n
+comment5.params=
+comment5.target=java.util.ArrayList\ gradeTwos()
+comment5.text=\r\n\ Find\ all\ grade\ 2\ employees\r\n
+numComments=6

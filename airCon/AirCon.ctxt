@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=AirCon
+comment1.params=
+comment1.target=AirCon()
+comment2.params=
+comment2.target=int\ getDesiredTemp()
+comment3.params=
+comment3.target=void\ printTemp()
+comment4.params=
+comment4.target=boolean\ isOn()
+comment5.params=
+comment5.target=void\ increaseTemp()
+comment6.params=
+comment6.target=void\ decreaseTemp()
+comment7.params=amount
+comment7.target=void\ increaseTemp(int)
+comment8.params=
+comment8.target=void\ turnOn()
+comment9.params=
+comment9.target=void\ turnOff()
+numComments=10
