@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1624794d-ad2f-4a87-bb13-7ca70f925e52" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../MockTest3/MockTest3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MockTest3/Tests/StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MockTest3/src/Fruits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MockTest3/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MockTest3/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S2W6Test/Tests/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S2W6Test/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter06/tech-support1_notBroken/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter06/tech-support1_notBroken/Test/ResponderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/tech-support1_notBroken/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter06/tech-support1_notBroken/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/tech-support1_notBroken/src/Responder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter06/tech-support1_notBroken/src/Responder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter06/tech-support1_notBroken/tech-support1_notBroken.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter06/tech-support1_notBroken/tech-support1_notBroken.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knotsCrosses/desktop.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../knotsCrosses/desktop.ini" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2tUacV2bdZ7vsL0Mzsxb48NwHmh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/mjb24126/OneDrive - University of Strathclyde/U1/CS105/TestS2W6_A",
+    "onboarding.tips.debug.path": "C:/Users/mjb24126/OneDrive - University of Strathclyde/U1/CS105/TestS2W6/src/Main.java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1624794d-ad2f-4a87-bb13-7ca70f925e52" name="Changes" comment="" />
+      <created>1740409186911</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740409186911</updated>
+    </task>
+    <servers />
+  </component>
+</project>

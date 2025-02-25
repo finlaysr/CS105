@@ -32,7 +32,6 @@ public class Responder {
         return possibilities.get(randomGen.nextInt(possibilities.size()));
     }
 
-
     public String findResponse(ArrayList<String> words) {
         String response = "";
         for (String word: words) {
@@ -46,5 +45,4 @@ public class Responder {
             return response;
         }
     }
-
 }
