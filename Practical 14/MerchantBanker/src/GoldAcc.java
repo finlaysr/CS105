@@ -17,9 +17,8 @@ public class GoldAcc extends SaveAcc{
 
     public boolean withdraw(double amount) {
         if (getBalance() >= amount+minBalance) {
-            super.withdraw(amount);
-            return true;
-        } else
-            return false;
+            return super.withdraw(amount);
+        }
+        return false;
     }
 }
