@@ -1,4 +1,7 @@
+import java.io.*;
 import java.util.ArrayList;
+import java.util.Scanner;
+
 
 public class MerchantBank implements Account{
     ArrayList<BasicAccount> accounts;
@@ -53,6 +56,38 @@ public class MerchantBank implements Account{
 
     public double totalAssets () {
         return accounts.stream().map(BasicAccount::getBalance).reduce(0.0, Double::sum);
+    }
+
+    public void loadBank() {
+        try (Scanner reader = new Scanner(new File("Files/merchantbanker.txt"))) {
+            while (reader.hasNext()) {
+                int accNum = reader.nextInt();
+                char accType = reader.next().charAt(0);
+                int accAmount = reader.nextInt();
+
+                if (accType == 'B') {
+                    accounts.add(new BasicAccount(accNum, 0));
+                } else if (accType == 'K') {
+                    accounts.add(new KidsAcc(accNum, 0, 0));
+                } else if (accType == 'S') {
+                    accounts.add(new SaveAcc(accNum, 0, 0));
+                }
+                accounts.getLast().deposit(accAmount);
+            }
+
+        }
+        catch (FileNotFoundException e) {
+            System.out.println("Couldnae find the file");
+        }
+    }
+
+    public void howMuchDosh() {
+        try (BufferedWriter writer = new BufferedWriter(new FileWriter("Files/dosh.txt"))) {
+            writer.write("Bank's total assets are: £" + totalAssets());
+        }
+        catch (IOException e){
+            System.out.println("Couldnae write the file");
+        }
     }
 
 }
