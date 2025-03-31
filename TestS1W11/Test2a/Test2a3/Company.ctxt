@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Company
+comment0.text=\r\n\ Class\ to\ represent\ a\ Company.\r\n\ \r\n
+comment1.params=n
+comment1.target=Company(int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Company\r\n
+comment2.params=e
+comment2.target=void\ addEmployee(Employee)
+comment2.text=\r\n\ Add\ employees\ to\ company\r\n
+comment3.params=surname
+comment3.target=int\ getSurnameSalaryBill(java.lang.String)
+comment3.text=\r\n\ Print\ total\ salary\ cost\ for\ all\ staff\ with\ given\ surname\r\n\ @param\ surname\ surname\ to\ search\ for\r\n
+numComments=4
